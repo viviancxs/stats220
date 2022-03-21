@@ -67,4 +67,4 @@ meme_image
 
 - Is there a way to measure the dimensions of imported and edited images?
 - How can I change the background colour when using image_append()?
-- WHAT ARE SOME GOOD WAYS TO GET MEME IDEAS??!!!
+- WHAT ARE SOME GOOD WAYS TO GET MEME IDEAS? - the ideation of this one took quite long.
