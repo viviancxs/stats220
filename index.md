@@ -1,3 +1,20 @@
+# My meme:
+
+![meme](https://user-images.githubusercontent.com/65698262/159200662-6f8f4f2c-a15b-4b47-900e-4a560c586734.png)
+
+## The motivation:
+
+I wanted to make something as self-explanatory as possible. So my idea was to *ONLY* use memes to make memes. Memes into **new** memes. 
+
+- The text at the top is kind of only so that I can practice using the image_annotate() function in Part A of the assignment, could go without it. 
+
+- Likewise for the hot pink border! Just wanted to try use these functions. 
+
+Team squidward!!! :^)
+
+## R code used:
+
+```{r, echo=TRUE}
 library("magick")
 
 # load squidward images
@@ -44,3 +61,4 @@ meme_image <- image_border(image_background(combined, "pink"), "#ffffff", "20x20
   image_border("#e60ee2", "10x10")
 
 meme_image
+```
