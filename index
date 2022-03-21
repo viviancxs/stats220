@@ -1,5 +1,3 @@
-```
-{r}
 library("magick")
 
 # load squidward images
@@ -46,4 +44,3 @@ meme_image <- image_border(image_background(combined, "pink"), "#ffffff", "20x20
   image_border("#e60ee2", "10x10")
 
 meme_image
-```
