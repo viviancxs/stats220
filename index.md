@@ -62,3 +62,9 @@ meme_image <- image_border(image_background(combined, "pink"), "#ffffff", "20x20
 
 meme_image
 ```
+
+## Things I would like to look into further and ask about:
+
+- Is there a way to measure the dimensions of imported and edited images?
+- How can I change the background colour when using image_append()?
+- WHAT ARE SOME GOOD WAYS TO GET MEME IDEAS??!!!
