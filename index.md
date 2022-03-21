@@ -4,7 +4,7 @@
 
 ## The motivation:
 
-I wanted to make something as self-explanatory as possible. So my idea was to *ONLY* use memes to make memes. Memes into **new** memes. 
+I wanted to make something as self-explanatory as possible. So my idea was to *ONLY use memes to make memes*. So I could get **memes made of memes**. 
 
 - The text at the top is kind of only so that I can practice using the image_annotate() function in Part A of the assignment, could go without it. 
 
